@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nesirli
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django projects 
+- 👀 I’m preparing for online computer science master's degree in Georgia Tech(OMSCS).
+- 🌱 I’m currently taking courses to level up my skills.
 - 📫 How to reach me nasir.nesirli@gmail.com
 
 <!---
