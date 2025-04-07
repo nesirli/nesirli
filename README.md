@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nasir | Data Product Manager | BI & Data Engineering | Full-Stack Data Apps 🚀  
+# 👋 Hi, I'm Nasir  | Full-Stack Apps | Product Manager 🚀  
 
 I specialize in **building data-driven solutions**, integrating **Business Intelligence, Data Engineering, and Software Development** to **optimize processes, automate workflows, and drive decision-making.**  
 
@@ -15,12 +15,8 @@ Here are some **real-world projects** I’ve built and contributed to:
 🔹 **[Supply Chain Monitoring Dashboard](#)** – Full-stack app for real-time inventory tracking  
 🔹 **[Real-Time Stock Market Dashboard](#)** – FastAPI + React + WebSockets for live data analysis  
 
-### 🌱 **Currently Learning & Exploring**  
-🚀 **Advanced API Development** (GraphQL, FastAPI)  
-📈 **Streaming Data & Kafka**  
-☁️ **Serverless Data Pipelines (AWS Lambda, Google Cloud Functions)**  
 
 ### 📫 **Let’s Connect!**  
 🔗 **LinkedIn:** [www.linkedin.com/in/nasirnesirli](#)  
-📂 **Portfolio & Projects:** [https://www.nasirnesirli.com](#)  
+📂 **Portfolio & Projects:** [https://www.nesirli.dev](#)  
 🐙 **GitHub:** You’re already here! Feel free to explore my repos.
