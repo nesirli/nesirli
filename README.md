@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Nasir  | Full-Stack Apps | Product Manager 🚀  
 
-I specialize in **building data-driven solutions**, integrating **Business Intelligence, Data Engineering, and Software Development** to **optimize processes, automate workflows, and drive decision-making.**  
+I specialize in **building data-driven solutions**, integrating **Business Intelligence and Software Development** to **optimize processes, automate workflows, and drive decision-making.**  
 
 💡 **What I Do:**  
-- 📊 **Business Intelligence & Data Visualization** – Tableau, Power BI, Apache Superset, D3.js  
-- ⚙️ **Data Engineering & Automation** – ETL Pipelines, SQL Optimization, Apache Airflow  
-- 🖥️ **Full-Stack Data Applications** – FastAPI, PostgreSQL, React  
+- 🖥️ **Full-Stack Applications** – FastAPI, NodeJS, PostgreSQL, React  
+- 📊 **Business Intelligence & Data Visualization** – Power BI, Apache Superset, D3.js  
 
 ### 🔹 **Projects & Contributions**  
 Here are some **real-world projects** I’ve built and contributed to:  
