@@ -1,16 +1,57 @@
-## Hi there 👋
+# 🧭 Mission & Vision
 
-<!--
-**nesirli/nesirli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Empowering laboratories and healthcare providers with data‑driven products that combat antimicrobial resistance and streamline clinical operations.
 
-Here are some ideas to get you started:
+# 🌱 Current Focus (2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mastering FastAPI & PostgreSQL through projects
+
+- Building Quanta ERP MVP — a modular ERP + Analytics platform for labs & SMBs
+
+- Launching GenoLab Alpha — SaaS for genomic AMR detection
+
+- Preparing for PMP Certification
+
+
+# 🛠️ Tech Stack
+
+- Python, FastAPI, Django, REST
+
+- PostgreSQL
+
+- Apache Superset, Metabase
+
+- Docker, GitHub Actions, CI/CD
+
+- Flutter, HTML, Tailwind CSS
+
+- Pandas, scikit‑learn, MLFlow, PyTorch, TensorFlow
+
+# 🏗️ Projects
+
+- Quanta ERP & Analytics - Modular ERP with embedded BI for clinics & labs
+
+- GenoLab - SaaS for genomic AMR detection using ML pipelines
+
+- Lab‑QC Toolkit - CLI & dashboards for Westgard rules QC monitoring
+
+
+# 📚 Publications & Talks
+
+- Coming soon: MSc Thesis “Machine‑learning‑driven prediction of antibiotic resistance in Klebsiella pneumoniae genomes”.
+
+- Workshops on external QC best practices (Azerbaijan, 2024).
+
+# 🤝 I’m open to
+
+- Collaborations with hospitals & research groups on AMR genomics
+
+- Consulting engagements in clinical lab optimization & QC
+
+- Speaking opportunities on data products in healthcare
+
+# 📫 Get in Touch
+
+LinkedIn: www.linkedin.com/in/nasirnesirli
+
+Email: nasir.nesirli@gmail.com
