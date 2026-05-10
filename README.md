@@ -1,6 +1,7 @@
 # Nasir Nesirli 🧬💻
 
 **Bioinformatics Engineer | Clinical Data Scientist**
+
 *Bridging 10 years of clinical wet-lab management with production-grade computational infrastructure.*
 
 ---
