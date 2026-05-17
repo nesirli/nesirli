@@ -13,8 +13,14 @@
 ---
 
 **Featured projects**
+
 - [Interpretable ML/DL for MDR Prediction in K. pneumoniae](https://github.com/nesirli/msc-project)
-1,100+ WGS genomes · PyTorch + Ensemble · SHAP explanations · Clinical decision focus
+
+  - 1,100+ WGS genomes
+  - PyTorch
+  - Ensemble
+  - SHAP explanations
+  - Clinical decision focus
 
 ---
 
