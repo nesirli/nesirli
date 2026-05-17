@@ -1,38 +1,23 @@
-# Nasir Nesirli 🧬💻
+### Nasir Nesirli — Clinical Data Scientist & Medical AI Engineer
 
-**Bioinformatics Engineer | Clinical Data Scientist**
+10 years directing clinical microbiology laboratories → MSc Bioinformatics (University of Birmingham, 2025) → building interpretable ML systems for clinical diagnostics.
 
-*Bridging 10 years of clinical wet-lab management with production-grade computational infrastructure.*
+**What I build**
+- Predictive ML models for AMR resistance phenotyping from WGS data (PyTorch, SHAP, LIME)
+- Clinical data pipelines on MIMIC-IV, WHO GLASS, and LIS/EHR datasets
+- Cloud-native bioinformatics infrastructure (AWS, Nextflow, Docker, Terraform)
+- Antibiotic stewardship decision support tools (FHIR output, EUCAST-aligned)
 
----
+**Featured project**
+[Interpretable ML/DL for MDR Prediction in K. pneumoniae](https://github.com/nesirli/msc-project)
+1,100+ WGS genomes · PyTorch + Ensemble · SHAP explanations · Clinical decision focus
 
-### 🛡️ The Data Philosophy
-Over a decade of wet lab experience has taught me one critical lesson: **I know exactly how and why data breaks before it ever reaches a server.** I build systems designed for the real world—where biological noise is filtered effectively, code is as reliable as a clinical SOP, and outputs are architected for the scientists who actually use them.
+**Stack**
+`Python` `PyTorch` `Scikit-learn` `SHAP` `AWS` `Nextflow` `Docker` `FHIR` `SQL`
 
----
+**Long-term**
+Building a precision diagnostics platform for longevity and preventive health.
 
-### 🛠️ Technical Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python (Typed/Tested), R, Bash, SQL |
-| **Workflows** | Nextflow (DSL2), nf-core, Snakemake |
-| **Infrastructure** | AWS (Batch, S3, EC2, IAM), Terraform, Docker, GitHub Actions |
-| **Data Science** | PyTorch, Scikit-learn, Explainable AI (SHAP/LIME), EHR/LIS Integration |
-| **Genomics** | WGS, RNA-seq, Metagenomics, Molecular Diagnostic Pipelines |
-
----
-
-### 🔭 Current Focus
-* **Cloud-Native Infrastructure:** Automating high-throughput genomics via AWS and Terraform.
-* **Interpretable ML:** Building diagnostic decision-support tools that prioritize transparency and clinical utility.
-* **Pipeline Resilience:** Engineering robust QC modules and standardized diagnostic workflows.
-
----
-
-### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/nasirnesirli](https://www.linkedin.com/in/nasirnesirli)
-* **Location:** Baku, Azerbaijan (Available for remote contract work with EU Biotech/TechBio startups)
-* **Targeting:** EU Blue Card opportunities 🇪🇺
-
----
+📍 Ankara, Turkey · Open to remote contract worldwide
+🔗 linkedin.com/in/nasirnesirli
+🔗 nasirnesirli.com
