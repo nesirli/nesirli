@@ -1,4 +1,4 @@
-### Nasir Nesirli - Clinical Data Scientist & Medical AI Engineer
+### Nasir Nesirli - Clinical Data Scientist & ML Engineer
 
 10 years directing clinical microbiology laboratories → MSc Bioinformatics (University of Birmingham, 2025) → building interpretable ML systems for clinical diagnostics.
 
