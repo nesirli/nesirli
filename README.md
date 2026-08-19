@@ -30,7 +30,7 @@ I spent 10 years running clinical diagnostic laboratories, watching patients wai
 
 | Repo | What it is |
 |---|---|
-| [meta-scholar](https://github.com/nesirli/meta-scholar) | RAG question-answering over metagenomics literature |
+| [metascholar](https://github.com/nesirli/metascholar) | RAG question-answering over metagenomics literature |
 | [diabetes-readmission](https://github.com/nesirli/diabetes-readmission) | Hospital readmission risk with modern ML engineering (tests, CI, packaging) |
 | [stroke-risk](https://github.com/nesirli/stroke-risk) | Clinical risk prediction with interpretability |
 | [ml-from-scratch](https://github.com/nesirli/ml-from-scratch) | ML algorithms implemented from first principles, documented |
