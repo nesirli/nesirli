@@ -1,4 +1,4 @@
-# Hi everyone 👋
+# Hi everyone, I am Nasir Nesirli 👋
 
 ---
 
