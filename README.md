@@ -18,20 +18,13 @@ I spent 10 years running clinical diagnostic laboratories, watching patients wai
 
 ---
 
-## Flagship projects
-
-**[klebsiella-amr](https://github.com/nesirli/klebsiella-amr)** - reproducible pipeline from raw Illumina reads to interpretable AMR predictions.
-- Raw FASTQs → fastp → Kraken2 → SPAdes → AMRFinderPlus → gene presence/absence features → XGBoost / LightGBM / PyTorch MLP (Optuna-tuned) → SHAP, permutation & occlusion interpretability.
-- Optional DNABERT-2 sequence-level model. Temporal train/test splits, per-sample disk cleanup so thousands of genomes fit on a laptop, every model emitting the same six artifacts for honest comparison.
-
----
-
-## Other projects
+## Projects
 
 | Repo | What it is |
 |---|---|
+| [klebsiella-amr](https://github.com/nesirli/klebsiella-amr) | Reproducible pipeline from raw Illumina reads to interpretable AMR predictions
 | [metascholar](https://github.com/nesirli/metascholar) | RAG question-answering over metagenomics literature |
-| [diabetes-readmission](https://github.com/nesirli/diabetes-readmission) | Hospital readmission risk with modern ML engineering (tests, CI, packaging) |
+| [diabetes-readmission](https://github.com/nesirli/diabetes-readmission) | Hospital readmission risk with modern ML engineering |
 | [stroke-risk](https://github.com/nesirli/stroke-risk) | Clinical risk prediction with interpretability |
 | [ml-from-scratch](https://github.com/nesirli/ml-from-scratch) | ML algorithms implemented from first principles, documented |
 
