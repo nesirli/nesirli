@@ -10,7 +10,7 @@ My main focus areas are:
 
 ---
 
-I spent 10 years running clinical diagnostic laboratories, watching patients wait 72 hours for culture results while doctors guessed at antibiotics. Now I build the tools I wished I had back then: interpretable machine learning on bacterial genomes.
+I spent over 10 years in clinical diagnostic laboratories, watching patients wait 72 hours for culture results while doctors guessed at antibiotics. Now I build the tools I wished I had back then: interpretable machine learning on bacterial genomes.
 
 - 🧬 MSc Bioinformatics, University of Birmingham — thesis on interpretable ML for multidrug resistance in *K. pneumoniae*
 - 🔬 BSc Clinical Microbiology + a decade of clinical lab experience
