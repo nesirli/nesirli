@@ -4,9 +4,9 @@
 
 My main focus areas are:
 
-**- ML for microbial genomics (AMR prediction WGS)**
+**- ML for microbial genomics**
 
-**- Deep learning on genomic sequence (DNA language models).**
+**- Deep learning on genomic sequences**
 
 ---
 
@@ -20,14 +20,18 @@ I spent over 10 years in clinical diagnostic laboratories, watching patients wai
 
 ## Projects
 
+### Bioinformatics
 | Repo | What it is |
 |---|---|
 | [klebsiella-amr](https://github.com/nesirli/klebsiella-amr) | Reproducible pipeline from raw Illumina reads to interpretable AMR predictions |
-| [metascholar](https://github.com/nesirli/metascholar) | RAG question-answering over metagenomics literature |
+
+### Machine Learning & AI Engineering
+| Repo | What it is |
+|---|---|
 | [diabetes-readmission](https://github.com/nesirli/diabetes-readmission) | Hospital readmission risk with modern ML engineering |
 | [stroke-risk](https://github.com/nesirli/stroke-risk) | Clinical risk prediction with interpretability |
 | [ml-from-scratch](https://github.com/nesirli/ml-from-scratch) | ML algorithms implemented from first principles, documented |
-
+| [metascholar](https://github.com/nesirli/metascholar) | RAG question-answering over metagenomics literature |
 ---
 
 ## Toolbox
