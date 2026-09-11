@@ -24,6 +24,7 @@ I spent over 10 years in clinical diagnostic laboratories, watching patients wai
 | Repo | What it is |
 |---|---|
 | [klebsiella-amr](https://github.com/nesirli/klebsiella-amr) | Reproducible pipeline from raw Illumina reads to interpretable AMR predictions |
+| [mystery-microbe](https://github.com/nesirli/mystery-microbe) | Complete bacterial identification, annotation pipeline |
 
 ### Machine Learning & AI Engineering
 | Repo | What it is |
