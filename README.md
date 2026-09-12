@@ -8,18 +8,27 @@
 ## Projects
 
 ### Bioinformatics
+
 | Repo | Description |
 |---|---|
 | [klebsiella-amr](https://github.com/nesirli/klebsiella-amr) | Reproducible pipeline from raw Illumina reads to interpretable AMR predictions |
 | [mystery-microbe](https://github.com/nesirli/mystery-microbe) | Complete bacterial identification, annotation pipeline |
 
 ### Machine Learning & AI Engineering
+
 | Repo | Description |
 |---|---|
 | [diabetes-readmission](https://github.com/nesirli/diabetes-readmission) | Hospital readmission risk with modern ML engineering |
 | [stroke-risk](https://github.com/nesirli/stroke-risk) | Clinical risk prediction with interpretability |
 | [ml-from-scratch](https://github.com/nesirli/ml-from-scratch) | ML algorithms implemented from first principles, documented |
 | [metascholar](https://github.com/nesirli/metascholar) | RAG question-answering over metagenomics literature |
+
+### Reproduced Papers
+
+| Repo | Topic | Description | Paper |
+|---|---|---|---|
+| [himes2014-rnaseq-repro](https://github.com/nesirli/himes2014-rnaseq-repro) | RNA-Seq | RNA-Seq Transcriptome Profiling in Airway Smooth Muscle Cells | [10.1371/journal.pone.0099625](https://doi.org/10.1371/journal.pone.0099625) |
+
 ---
 
 ## Toolbox
