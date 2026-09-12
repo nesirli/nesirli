@@ -1,8 +1,7 @@
 # Hi, I am Nasir 👋
 
-- 🧬 MSc Bioinformatics, University of Birmingham — thesis on interpretable ML for multidrug resistance in *K. pneumoniae*
+- 🧬 MSc Bioinformatics, University of Birmingham (Thesis: Interpretable ML for multidrug resistance in K.pneumoniae)
 - 🔬 BSc Clinical Microbiology + a decade of clinical lab experience
-- 📍 Ankara, Türkiye (UTC+3) · open to remote contracts (EU/US) · [nasirnesirli.com](https://nasirnesirli.com) · [LinkedIn](https://www.linkedin.com/in/nasirnesirli/)
 
 ---
 
