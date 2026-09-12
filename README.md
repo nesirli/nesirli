@@ -27,7 +27,7 @@
 
 | Repo | Topic | Description | Paper |
 |---|---|---|---|
-| [himes2014-rnaseq-repro](https://github.com/nesirli/himes2014-rnaseq-repro) | RNA-Seq | RNA-Seq Transcriptome Profiling in Airway Smooth Muscle Cells | [10.1371/journal.pone.0099625](https://doi.org/10.1371/journal.pone.0099625) |
+| [himes2014-rnaseq-repro](https://github.com/nesirli/himes2014-rnaseq-repro) | RNA-Seq | RNA-Seq Transcriptome Profiling in Airway Smooth Muscle Cells | [DOI](https://doi.org/10.1371/journal.pone.0099625) |
 
 ---
 
