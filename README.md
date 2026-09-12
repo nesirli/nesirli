@@ -1,16 +1,4 @@
-# Hi, I am Nasir Nesirli 👋
-
----
-
-My main focus areas are:
-
-**- ML for microbial genomics**
-
-**- Deep learning on genomic sequences**
-
----
-
-I spent over 10 years in clinical diagnostic laboratories, watching patients wait 72 hours for culture results while doctors guessed at antibiotics. Now I build the tools I wished I had back then: interpretable machine learning on bacterial genomes.
+# Hi, I am Nasir 👋
 
 - 🧬 MSc Bioinformatics, University of Birmingham — thesis on interpretable ML for multidrug resistance in *K. pneumoniae*
 - 🔬 BSc Clinical Microbiology + a decade of clinical lab experience
@@ -47,9 +35,4 @@ I spent over 10 years in clinical diagnostic laboratories, watching patients wai
 
 ## Writing
 
-I write about AMR prediction, genomics ML/DL, and pipeline engineering at [nasirnesirli.com](https://nasirnesirli.com), 
-shorter notes on [LinkedIn](https://www.linkedin.com/in/nasirnesirli/).
-
----
-
-*Wet-lab reality, dry-lab tools.*
+I write about genomics ML/DL, and pipeline engineering at [nasirnesirli.com](https://nasirnesirli.com)
