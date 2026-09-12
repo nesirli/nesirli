@@ -8,13 +8,13 @@
 ## Projects
 
 ### Bioinformatics
-| Repo | What it is |
+| Repo | Description |
 |---|---|
 | [klebsiella-amr](https://github.com/nesirli/klebsiella-amr) | Reproducible pipeline from raw Illumina reads to interpretable AMR predictions |
 | [mystery-microbe](https://github.com/nesirli/mystery-microbe) | Complete bacterial identification, annotation pipeline |
 
 ### Machine Learning & AI Engineering
-| Repo | What it is |
+| Repo | Description |
 |---|---|
 | [diabetes-readmission](https://github.com/nesirli/diabetes-readmission) | Hospital readmission risk with modern ML engineering |
 | [stroke-risk](https://github.com/nesirli/stroke-risk) | Clinical risk prediction with interpretability |
