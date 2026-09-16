@@ -44,4 +44,4 @@
 
 ## Writing
 
-I write about genomics ML/DL, and pipeline engineering at [nasirnesirli.com](https://nasirnesirli.com)
+I write about bioinformatics and machine learning at [nasirnesirli.com](https://nasirnesirli.com)
