@@ -12,8 +12,8 @@
 | Repo | Topic | Description |
 |---|---|---|
 | [klebsiella-amr](https://github.com/nesirli/klebsiella-amr) | WGS, AMR, Machine Learning | Reproducible pipeline from raw Illumina reads to interpretable AMR predictions |
-| [mystery-microbe](https://github.com/nesirli/mystery-microbe) | Genomics, Assembly, Annotation | Complete bacterial identification, annotation pipeline |
-| [na12878-variant-calling](https://github.com/nesirli/na12878-variant-calling) | WES, Variant Calling, Clinical Genomics | An end-to-end reproducible workflow for calling, filtering, and annotating clinical genomic variants |
+| [mystery-microbe](https://github.com/nesirli/mystery-microbe) | Genomics, Assembly, Annotation | Reproducible pipeline for complete bacterial identification, annotation |
+| [na12878-variant-calling](https://github.com/nesirli/na12878-variant-calling) | WES, Variant Calling, Clinical Genomics | Reproducible pipeline for calling, filtering, and annotating clinical genomic variants |
 
 ### Machine Learning & AI Engineering
 
