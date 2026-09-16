@@ -9,11 +9,11 @@
 
 ### Bioinformatics
 
-| Repo | Topic | Description |
-|---|---|---|
-| [klebsiella-amr](https://github.com/nesirli/klebsiella-amr) | WGS, AMR, Machine Learning | Reproducible pipeline from raw Illumina reads to interpretable AMR predictions |
-| [mystery-microbe](https://github.com/nesirli/mystery-microbe) | Genomics, Assembly, Annotation | Reproducible pipeline for complete bacterial identification, annotation |
-| [na12878-variant-calling](https://github.com/nesirli/na12878-variant-calling) | WES, Variant Calling, Clinical Genomics | Reproducible pipeline for calling, filtering, and annotating clinical genomic variants |
+| Repo | Topic | Stack | Description |
+|---|---|---|---|
+| [klebsiella-amr](https://github.com/nesirli/klebsiella-amr) | WGS, AMR, Machine Learning | Python, GNU Make, Conda, AMRFinderPlus, SPAdes, Kraken2, XGBoost, LightGBM, PyTorch, Streamlit, Docker | Reproducible pipeline from raw Illumina reads to interpretable AMR predictions |
+| [mystery-microbe](https://github.com/nesirli/mystery-microbe) | Genomics, Assembly, Annotation | Python, Snakemake, Conda, SRA Toolkit, FastQC, MultiQC, fastp, SeqKit, SPAdes, Kraken2, QUAST, Prokka, BLAST+, ABRicate, Barrnap, Bedtools | Reproducible pipeline for complete bacterial identification, annotation |
+| [na12878-variant-calling](https://github.com/nesirli/na12878-variant-calling) | WES, Variant Calling, Clinical Genomics | Python, Snakemake, Conda, SRA Toolkit, FastQC, fastp, SeqKit, BWA, Samtools, Picard, GATK4, BCFtools, SnpEff, SnpSift | Reproducible pipeline for calling, filtering, and annotating clinical genomic variants |
 
 ### Machine Learning & AI Engineering
 
