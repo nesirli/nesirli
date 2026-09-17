@@ -16,7 +16,7 @@ I work on genomics, transcriptomics and microbiome data, and build machine learn
 | [ml-from-scratch](https://github.com/nesirli/ml-from-scratch) | Machine Learning | Numpy, Math | ML algorithms implemented from first principles, documented |
 | [klebsiella-amr](https://github.com/nesirli/klebsiella-amr) | AMR, Machine Learning | Python, GNU Make, Conda, AMRFinderPlus, SPAdes, Kraken2, XGBoost, LightGBM, PyTorch, Streamlit, Docker | Reproducible pipeline from raw Illumina reads to interpretable AMR predictions |
 | [mystery-microbe](https://github.com/nesirli/mystery-microbe) | Microbial Genomics | Python, Snakemake, Conda, SRA Toolkit, FastQC, MultiQC, fastp, SeqKit, SPAdes, Kraken2, QUAST, Prokka, BLAST+, ABRicate, Barrnap, Bedtools | Reproducible pipeline for complete bacterial identification, annotation |
-| [metascholar](https://github.com/nesirli/metascholar) | RAG, Metagenomics | Python, OpenAI, Vector DB, LLM APIs | RAG question-answering over metagenomics literature |
+| [metascholar](https://github.com/nesirli/metascholar) | RAG, Metagenomics | Python, Vector DB, LLM APIs | RAG question-answering over metagenomics literature |
 
 ---
 
