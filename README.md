@@ -2,9 +2,11 @@
 
 I build **clinical genomics pipelines**, from raw sequencing reads to benchmarked variant calls and finished clinical reports, plus machine learning on genomic and microbial data.
 
-🧬 MSc Bioinformatics, University of Birmingham (Thesis: Interpretable ML for multidrug resistance in *K. pneumoniae*)
-🔬 BSc Clinical Microbiology + a decade of clinical lab experience
-🎯 Open to clinical bioinformatics roles in Türkiye (Ankara): clinical genetics, molecular pathology, public-health microbiology
+- MSc Bioinformatics, University of Birmingham (Thesis: Interpretable ML for multidrug resistance in *K. pneumoniae*)
+
+- BSc Clinical Microbiology + a decade of clinical lab experience
+
+- Open to clinical bioinformatics roles in Türkiye (Ankara): clinical genetics, molecular pathology, public-health microbiology
 
 ### Clinical Genomics
 
