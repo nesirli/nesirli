@@ -14,7 +14,7 @@ Every pipeline is benchmarked against public truth sets (GIAB, SEQC2) and genera
 
 | Repo | Topic | Stack | Description |
 |---|---|---|---|
-| [germline-wgs-giab](https://github.com/nesirli/germline-wgs-giab) | Germline WGS | Nextflow, Docker, BWA-MEM2, GATK, DeepVariant, hap.py, VEP, Exomiser | FASTQ to ACMG-classified variants, benchmarked on GIAB HG001–HG007 |
+| [germline-wgs-giab](https://github.com/nesirli/germline-wgs-giab) | Germline WGS | Nextflow, Docker, BWA-MEM2, GATK, DeepVariant, hap.py, VEP | FASTQ to VEP-annotated variants; HaplotypeCaller vs DeepVariant benchmarked on GIAB HG002 with hap.py |
 | [trio-denovo-giab](https://github.com/nesirli/trio-denovo-giab) 🚧 | Trio analysis | Nextflow, GATK joint calling, somalier, slivar, RTG Tools | De novo and inheritance analysis on both GIAB trios, with relatedness QC |
 | [roh-recessive-wes](https://github.com/nesirli/roh-recessive-wes) 🚧 | Consanguinity / ROH | Nextflow, AutoMap, bcftools roh, BAMSurgeon, Exomiser | Finding homozygous recessive variants inside runs of homozygosity in singleton exomes |
 | [somatic-tumor-benchmark](https://github.com/nesirli/somatic-tumor-benchmark) 🚧 | Somatic cancer | Nextflow, Mutect2, CNVkit, MSIsensor-pro, som.py, VEP, CIViC | Tumour/normal and tumour-only calling, TMB/MSI and AMP/ASCO/CAP tiering, benchmarked on SEQC2 and GIAB HG008 |
